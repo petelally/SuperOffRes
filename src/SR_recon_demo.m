@@ -7,7 +7,7 @@
 % 3) Completes k-space via conjugate symmetry
 %
 % The final image is then reconstructed by selecting the optimal off-
-% resonance frequnecy in each voxel of the super-resolution image:
+% resonance frequency in each voxel of the super-resolution image:
 % 1) Low-pass filters k-space at each frequency offset
 % 2) Uses 1) to generate smooth phase maps
 % 3) Chooses the frequency offset which minimises the absolute phase
