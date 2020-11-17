@@ -2,7 +2,9 @@
 Super-resolution reconstruction with unbalanced SSFP
 
 ## Content
-This repository contains a simple multifrequency reconstruction algorithm, as outlined in the paper: []
+This repository contains a simple multifrequency reconstruction algorithm, as outlined in the paper: Lally PJ, Matthews PM, Bangerter NK. Unbalanced SSFP for super-resolution 
+in MRI. Magn Reson Med. 2020;00:1–13. https://doi.org/10.1002/mrm.28593
+
 
 ## Structure
 * '/src': source code (written for MATLAB 2017a)
