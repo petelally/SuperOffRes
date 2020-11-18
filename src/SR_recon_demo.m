@@ -1,5 +1,5 @@
 % SR_recon_demo takes the provided Bruker data and performs multi-freq 
-% super-res reconstruction as outlined in [REF]. 
+% super-res reconstruction as outlined in https://doi.org/10.1002/mrm.28593
 %
 % For each frequency offset, a super-res image is reconstructed:
 % 1) Constructs matrix of k-space bands and pattern shifts (psi)
@@ -12,7 +12,7 @@
 % 2) Uses 1) to generate smooth phase maps
 % 3) Chooses the frequency offset which minimises the absolute phase
 % 
-% The final images reproduce the results shown in [REF].
+% The final images reproduce the results shown in https://doi.org/10.1002/mrm.28593
 %
 % PJL 08/04/20
 
